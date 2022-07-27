@@ -1,0 +1,3 @@
+/Users/ilkerkaraca/CLionProjects/udemyC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ilkerkaraca/CLionProjects/udemyC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ilkerkaraca/CLionProjects/udemyC/cmake-build-debug/CMakeFiles/udemyC.dir
